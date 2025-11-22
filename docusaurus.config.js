@@ -26,7 +26,7 @@ const config = {
   baseUrl: '/',
 
   // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
+  // If you aren't using GitHub pages, you don'tgit  need these.
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
 
@@ -83,7 +83,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'My Site',
+        title: 'Peter Pans\'s Techland',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
